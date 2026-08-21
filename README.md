@@ -1,16 +1,16 @@
-# WinOps Toolkit
+# 🛠️ WinOps Toolkit
 
 **A menu-driven Windows command-line toolkit for IT support, system administration, network diagnostics, maintenance, and troubleshooting.**
 
-## Overview
+## 📋 Overview
 
 WinOps Toolkit is a Windows command-line utility designed to provide quick access to commonly used troubleshooting, diagnostic, administrative, and system maintenance commands through an organized menu-driven interface.
 
 It is intended for learning, authorized IT support, desktop support, and network support environments.
 
-## Features
+## ✨ Features
 
-### Network Tools
+### 🌐 Network Tools
 
 * DNS cache flush
 * DHCP release and renewal
@@ -22,7 +22,7 @@ It is intended for learning, authorized IT support, desktop support, and network
 * Netstat connections
 * WLAN diagnostics and reports
 
-### System Information
+### 💻 System Information
 
 * CPU information
 * RAM information
@@ -32,14 +32,14 @@ It is intended for learning, authorized IT support, desktop support, and network
 * Network adapter information
 * Battery information
 
-### Windows Repair and Maintenance
+### 🔧 Windows Repair & Maintenance
 
 * DISM health and repair tools
 * System File Checker (SFC)
 * CHKDSK disk checks
 * Disk and volume diagnostics
 
-### Security and Administration
+### 🔐 Security & Administration
 
 * BitLocker status and management
 * Local user information
@@ -50,32 +50,32 @@ It is intended for learning, authorized IT support, desktop support, and network
 * Microsoft Defender status
 * Windows Firewall status
 
-### Windows Management Tools
+### ⚙️ Windows Management Tools
 
 Quick access to:
 
-* Device Manager
-* Disk Management
-* Services
-* Event Viewer
-* Task Manager
-* Reliability Monitor
-* System Information
+* 🖥️ Device Manager
+* 💾 Disk Management
+* ⚙️ Services
+* 📜 Event Viewer
+* 📊 Task Manager
+* 📈 Reliability Monitor
+* ℹ️ System Information
 
-## Requirements
+## 📌 Requirements
 
-* Windows 10 or Windows 11
-* Administrator privileges are required for some features
+* 🪟 Windows 10 or Windows 11
+* 🔑 Administrator privileges are required for some features
 
-## Installation
+## 🚀 Installation & Usage
 
-1. Download or clone this repository.
-2. Open the downloaded project folder.
-3. Run `WinOps_Toolkit.cmd`.
-4. Approve the Administrator privilege request if prompted.
-5. Select a tool from the menu.
+1. 📥 Download or clone this repository.
+2. 📂 Open the downloaded project folder.
+3. ▶️ Run `WinOps_Toolkit.cmd`.
+4. 🔐 Approve the Administrator privilege request if prompted.
+5. 🛠️ Select a tool from the menu.
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 WinOps-Toolkit/
@@ -83,34 +83,34 @@ WinOps-Toolkit/
 └── README.md
 ```
 
-## Safety Notice
+## ⚠️ Safety Notice
 
-This toolkit is intended for authorized system administration, troubleshooting, and educational purposes.
+This toolkit is intended for **authorized system administration, troubleshooting, and educational purposes**.
 
 Some commands can modify system configuration or affect data and security settings. Use the toolkit only on systems you own or are authorized to administer.
 
 Examples include:
 
-* BitLocker decryption
-* Network stack resets
-* Disk management operations
+* 🔓 BitLocker decryption
+* 🌐 Network stack resets
+* 💾 Disk management operations
 
 Always understand the action before running a command.
 
-## Roadmap
+## 🗺️ Roadmap
 
-* [x] v1.0 — Initial release
-* [ ] v1.1 — Expanded network diagnostics
-* [ ] v1.2 — Additional system health checks
-* [ ] v1.3 — Automated diagnostic reports
-* [ ] v2.0 — Improved interface and expanded Windows operations tools
+* [x] 🟢 **v1.0** — Initial release
+* [ ] 🌐 **v1.1** — Expanded network diagnostics
+* [ ] 🩺 **v1.2** — Additional system health checks
+* [ ] 📄 **v1.3** — Automated diagnostic reports
+* [ ] 🚀 **v2.0** — Improved interface and expanded Windows operations tools
 
-## Author
+## 👨‍💻 Author
 
 **Siddharth Sonar**
 
-GitHub: **Sh4d0w-X6**
+🔗 GitHub: **Sh4d0w-X6**
 
-## License
+## 📄 License
 
 A license will be added in a future update.
